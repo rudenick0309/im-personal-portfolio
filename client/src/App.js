@@ -8,13 +8,13 @@ export default function App() {
         <nav>
           <ul>
             <li>
-              <Link to="/">Home</Link>
+              <Link to="/">소개</Link>
             </li>
             <li>
-              <Link to="/about">About</Link>
+              <Link to="/about">경력</Link>
             </li>
             <li>
-              <Link to="/users">Users</Link>
+              <Link to="/users">솰라솰라</Link>
             </li>
           </ul>
         </nav>
